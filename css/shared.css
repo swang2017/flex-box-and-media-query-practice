@@ -1,0 +1,26 @@
+
+
+.navigation {
+align-items: center;
+}
+
+ul {
+  text-align:center
+}
+
+
+
+.post h1 {
+  background-color:lightBlue;
+  
+}
+
+.post img {
+  width:200px;
+  display:block;
+}
+
+.post-image {
+    float:left;
+    margin-right:10px;
+}
